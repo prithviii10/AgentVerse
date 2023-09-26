@@ -33,6 +33,6 @@
         "tslib": "^2.5.0"
     },
     "dependencies": {
-        "phaser3-rex-plugins": "^1.60.1"
+        "phaser3-rex-plugins": "^1.60.5"
     }
 }
