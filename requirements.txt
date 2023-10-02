@@ -4,12 +4,12 @@ uvicorn
 py3langid
 iso-639
 openai==0.27.8
-opencv-python==4.8.0.76
+opencv-python==4.8.1.78.76
 gradio
 httpx[socks]
 astunparse
 langchain==0.0.157
 scikit-learn
-pydantic==1.10.7
+pydantic==1.10.13
 typing-extensions==4.5.0
 typing-inspect==0.8.0
